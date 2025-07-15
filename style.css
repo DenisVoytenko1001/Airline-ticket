@@ -1,12 +1,13 @@
 body {
   margin: 0;
-  background-image: url('https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg');
+  background-image: url('https://znaki.fm/static/content/thumbs/1600x900/5/fc/w322pp---c16x9x50px50p--778045f49faab515effb79966b66afc5.jpeg');
   background-size: cover;
-  background-repeat: no-repeat;
   background-position: center;
-  min-height: 100vh;
+  background-repeat: no-repeat;
   font-family: sans-serif;
+  min-height: 100vh;
 }
+
 .page-section {
   background-color: white;
   padding: 2em;
