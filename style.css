@@ -12,17 +12,16 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #007bff; /* синій фон */
+  background-color: #007bff;
   padding: 10px;
   border-bottom-right-radius: 10px;
-  z-index: 999;
+  z-index: 1000;
 }
 
 .logo-img {
   height: 50px;
   width: auto;
 }
-
 
 .page-section {
   background-color: white;
