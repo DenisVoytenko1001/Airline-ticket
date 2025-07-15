@@ -1,11 +1,11 @@
 body {
   margin: 0;
-  background-image: url('https://t.plnspttrs.net/36500/1251413_b5ae9182dc_280.jpg');
+  background-image: url('https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg');
   background-size: cover;
-  background-position: center;
   background-repeat: no-repeat;
-  font-family: sans-serif;
+  background-position: center;
   min-height: 100vh;
+  font-family: sans-serif;
 }
 
 .page-section {
@@ -18,10 +18,9 @@ body {
 }
 
 header {
-  background-color: #007bff;
+  background-color: #ffc107;
   padding: 1em;
   text-align: center;
-  color: white;
 }
 
 header h1 {
@@ -31,12 +30,12 @@ header h1 {
 nav a {
   margin: 0 10px;
   text-decoration: none;
-  color: #fff;
+  color: #333;
   font-weight: bold;
 }
 
 nav a:hover {
-  text-decoration: underline;
+  color: #000;
 }
 
 main {
@@ -63,7 +62,7 @@ main {
 
 button,
 .main-button {
-  background-color: #28a745;
+  background-color: #007bff;
   color: white;
   border: none;
   padding: 0.7em 1.5em;
@@ -76,7 +75,7 @@ button,
 
 button:hover,
 .main-button:hover {
-  background-color: #218838;
+  background-color: #0056b3;
 }
 
 .advantages {
