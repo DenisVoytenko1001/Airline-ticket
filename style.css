@@ -8,16 +8,6 @@ body {
   min-height: 100vh;
 }
 
-body {
-  margin: 0;
-  background-image: url('https://images.unsplash.com/photo-1504198453319-5ce911bafcde');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  min-height: 100vh;
-  font-family: sans-serif;
-}
-
 .page-section {
   background-color: white;
   padding: 2em;
