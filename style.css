@@ -1,13 +1,12 @@
 body {
   margin: 0;
-  background-image: url('/mnt/data/400_0_1644844075-2350.jpg'); 
+  background-image: url('/mnt/data/MAU2.jpg'); 
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   min-height: 100vh;
   font-family: sans-serif;
 }
-
 
 .page-section {
   background-color: white;
