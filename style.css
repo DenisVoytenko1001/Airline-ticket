@@ -1,13 +1,15 @@
 body {
   margin: 0;
+  background-image: url('https://kiyavia.com/files/aviacompany/may/MAU-2.jpg');
   background-image: url('/mnt/data/MAU-2.jpg'); 
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
+  font-family: sans-serif;
   background-position: center;
   min-height: 100vh;
   font-family: sans-serif;
 }
-
 
 .page-section {
   background-color: white;
