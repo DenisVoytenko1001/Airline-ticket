@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-image: url('https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg');
+  background-image: url('/mnt/data/MAU-2.jpg'); /* локальне зображення */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
